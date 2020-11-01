@@ -1,0 +1,696 @@
+body {
+  font-family: "Quicksand", sans-serif;
+  background: #fafafa;
+  color: #535353;
+}
+body {
+  margin: 0;
+}
+body {
+  margin: 0;
+  font-family: "Quicksand", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+
+/*  Ini CSS */
+
+/* Form */
+
+@media (min-width: 512px) {
+  .css-1bz4ouw .ebd3p831 {
+    max-width: 384px;
+    padding: 2.5rem 2rem;
+  }
+  .tw-px-6 {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+  .tw-py-5 {
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+  }
+  .tw-min-h-screen {
+    min-height: 100vh;
+  }
+  .tw-bg-white {
+    background-color: #fff;
+  }
+}
+
+/* Arrowsss */
+
+@media (min-width: 640px) {
+  .sm\:tw-mb-12 {
+    margin-bottom: 3rem;
+  }
+}
+.tw-text-primary {
+  color: #2880ce;
+}
+.tw-mb-6 {
+  margin-bottom: 1.5rem;
+}
+.tw-text-sm {
+  font-size: 0.875rem;
+}
+.tw-items-center {
+  align-items: center;
+}
+.tw-flex {
+  display: flex;
+}
+a {
+  cursor: pointer;
+  text-decoration: none;
+  color: #2880ce;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+a {
+  background-color: transparent;
+}
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+/* Button Kembali */
+
+.tw-block {
+  display: block;
+}
+
+.tw-pl-2 {
+  padding-left: 0.5rem;
+}
+
+/* Logo */
+
+@media (max-width: 640px) {
+  .css-avxzix {
+    width: 160px;
+  }
+}
+.css-avxzix {
+  width: 120px;
+}
+
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+audio,
+canvas,
+embed,
+iframe,
+img,
+object,
+svg,
+video {
+  display: block;
+  vertical-align: middle;
+}
+img {
+  border-style: solid;
+}
+img {
+  border-style: none;
+}
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+a:hover {
+  color: #59a3e4;
+}
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+.tw-mb-8 {
+  margin-bottom: 2rem;
+}
+.tw-block {
+  display: block;
+}
+a {
+  cursor: pointer;
+  text-decoration: none;
+  color: #2880ce;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+a {
+  background-color: transparent;
+}
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+/* Text Login */
+
+.tw-text-primary {
+  color: #2880ce;
+}
+.tw-text-lg {
+  font-size: 1.125rem;
+}
+.tw-font-bold {
+  font-weight: 700;
+}
+h1,
+h3,
+h5,
+p {
+  margin-bottom: 1rem;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+blockquote,
+dd,
+dl,
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+p,
+pre {
+  margin: 0;
+}
+.h3,
+h3 {
+  font-size: 1.75rem;
+}
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+/* Text Paragrf */
+
+.tw-mb-10 {
+  margin-bottom: 2.5rem;
+}
+h1,
+h3,
+h5,
+p {
+  margin-bottom: 1rem;
+}
+blockquote,
+dd,
+dl,
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+p,
+pre {
+  margin: 0;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.tw-text-primary {
+  color: #2880ce;
+}
+.tw-mb-10 {
+  margin-bottom: 2.5rem;
+}
+h1,
+h3,
+h5,
+p {
+  margin-bottom: 1rem;
+}
+blockquote,
+dd,
+dl,
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+p,
+pre {
+  margin: 0;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+/* Div Form U dan P */
+
+.css-o2rotx {
+  box-shadow: rgba(17, 17, 17, 0.1) 0px 1px 8px;
+}
+.tw-mb-4 {
+  margin-bottom: 1rem;
+}
+
+/*  Form U dan P */
+.tw-relative {
+  position: relative;
+}
+
+/* Form Email */
+
+.css-o2rotx > div > .e48vd4k0 {
+  border-bottom: 0px;
+}
+.css-12rkqhi {
+  height: 49px;
+  width: 100%;
+  padding: 22px 1rem 5px;
+  font-size: 12px;
+  color: rgb(40, 128, 206);
+  border-radius: 0px;
+  border: 1px solid rgb(239, 238, 237);
+  outline: none;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  padding: 0;
+  line-height: inherit;
+  color: inherit;
+}
+button,
+input {
+  overflow: visible;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 0;
+}
+button,
+input {
+  overflow: visible;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+/* Label Email */
+
+.css-hxauk4 {
+  position: absolute;
+  top: 5px;
+  left: 1rem;
+  margin-bottom: 0px;
+  pointer-events: none;
+  cursor: text;
+  transition: all 0.2s ease-in-out 0s;
+  padding-bottom: 0px;
+  font-size: 12px;
+  font-weight: 500;
+  color: rgb(229, 62, 62);
+}
+label {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
+
+/* Form Password */
+
+.css-jonc7y {
+  height: 49px;
+  width: 100%;
+  padding: 22px 1rem 5px;
+  font-size: 12px;
+  color: rgb(40, 128, 206);
+  border-radius: 0px;
+  border: 1px solid rgb(239, 238, 237);
+  outline: none;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  padding: 0;
+  line-height: inherit;
+  color: inherit;
+}
+button,
+input {
+  overflow: visible;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 0;
+}
+button,
+input {
+  overflow: visible;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+/* Label Password */
+
+.css-by8fd3 {
+  position: absolute;
+  top: 5px;
+  left: 1rem;
+  margin-bottom: 0px;
+  pointer-events: none;
+  cursor: text;
+  transition: all 0.2s ease-in-out 0s;
+  padding-bottom: 0px;
+  font-size: 12px;
+  font-weight: 500;
+  color: rgb(83, 83, 83);
+}
+label {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
+
+.css-d21dn8 {
+  position: absolute;
+  right: 1rem;
+  top: 17px;
+}
+
+/* CheckBox */
+
+.css-1391vhs {
+  min-height: 4rem;
+}
+.tw-mb-5 {
+  margin-bottom: 1.25rem;
+}
+
+.tw-mt-4 {
+  margin-top: 1rem;
+}
+.tw-justify-between {
+  justify-content: space-between;
+}
+.tw-flex {
+  display: flex;
+}
+.css-1scdakx {
+  position: relative;
+}
+.tw-text-abu {
+  color: #a0a4a8;
+}
+.tw-text-xs {
+  font-size: 0.75rem;
+}
+.css-1scdakx input {
+  position: absolute;
+  top: 0.25rem;
+  opacity: 0.4;
+  z-index: 1;
+}
+
+.css-1scdakx label {
+  display: inline-block;
+  padding-left: 1.75em;
+}
+label {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
+
+.input[type="radio"] {
+  box-sizing: border-box;
+  padding: 0px;
+}
+[type="radio"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  padding: 0;
+  line-height: inherit;
+  color: inherit;
+}
+button,
+input {
+  overflow: visible;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 0;
+}
+button,
+input {
+  overflow: visible;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.tw-my-4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+@media screen and (min-width: 640px) {
+}
+
+/* Button Login */
+
+.css-1iefhk0:hover {
+  background-color: rgb(89, 163, 228);
+  border-color: rgb(89, 163, 228);
+}
+
+.css-1iefhk0 {
+  min-height: 35px;
+}
+
+.css-1iefhk0 {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  border: 1px solid rgb(40, 128, 206);
+  padding: 0px 1rem;
+  min-width: 100px;
+  min-height: 30px;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out 0s, background-color 0.15s ease-in-out 0s,
+    border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+  cursor: pointer;
+  color: rgb(255, 255, 255);
+  background-color: rgb(40, 128, 206);
+}
+
+/* Button Signup */
+
+.css-gcesyf:hover {
+  color: rgb(255, 255, 255);
+  background-color: rgb(89, 163, 228);
+  border-color: rgb(89, 163, 228);
+}
+
+@media screen and (max-width: 640px) {
+  .css-gcesyf {
+    min-height: 35px;
+  }
+}
+.css-gcesyf {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  border: 1px solid rgb(40, 128, 206);
+  padding: 0px 1rem;
+  min-width: 100px;
+  min-height: 30px;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out 0s, background-color 0.15s ease-in-out 0s,
+    border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+  cursor: pointer;
+  color: rgb(40, 128, 206);
+  background-color: rgb(255, 255, 255);
+}
+
+#toggle {
+  position: absolute;
+  top: 50%;
+  right: 15px;
+  transform: translateY(-50%);
+  width: 15px;
+  height: 15px;
+  background: url(../images/eye.svg);
+  background-size: cover;
+  cursor: pointer;
+}
+#toggle.hide {
+  background: url(../images/eye-slash.svg);
+  background-size: cover;
+}
+
+.css-1bz4ouw .ebd3p832 {
+  background-color: rgb(207, 227, 255);
+  flex: 1 1 0%;
+}
+
+.css-1bz4ouw .ebd3p832 .ebd3p830 {
+  flex: 1 1 0%;
+  height: 100vh;
+  position: sticky;
+  top: 0px;
+}
+.css-yatt51 {
+  background-size: contain;
+}
+.css-yatt51 {
+  background-repeat: no-repeat;
+  background-image: url(../images/login-illustration.png);
+  width: 100%;
+  height: 100vh;
+  background-position: center bottom;
+  -o-object-fit: cover;
+  object-fit: cover;
+  -o-object-position: left;
+  object-position: left;
+}
+
+.tw-text-primary {
+  color: #2880ce;
+}
+.tw-text-sm {
+  font-size: 0.875rem;
+}
+
+/* SPan */
+.css-10zg3ay {
+  min-height: 1.5rem;
+}
+.tw-text-abu-light {
+  color: #ccc;
+}
+.tw-text-right {
+  text-align: right;
+}
+.tw-mb-1 {
+  margin-bottom: 0.25rem;
+}
+.tw-text-xs {
+  font-size: 0.75rem;
+}
+.tw-block {
+  display: block;
+}
+
+/*# sourceMappingURL=login.css.map */

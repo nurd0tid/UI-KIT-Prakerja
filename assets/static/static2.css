@@ -1,0 +1,29 @@
+.style_list__3C0KU {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.style_list__3C0KU li {
+  flex: 1 0 150px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 30%;
+  height: 80px;
+}
+.style_list__3C0KU li img {
+  max-width: 120px;
+  max-height: 64px;
+  -o-object-fit: contain;
+  object-fit: contain;
+}
+@media (min-width: 640px) {
+  .style_list__3C0KU li img {
+    max-width: 150px;
+    max-height: 80px;
+  }
+}
